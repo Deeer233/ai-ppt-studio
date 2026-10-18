@@ -1,0 +1,13 @@
+{
+  "name": "xuye-ai-ppt-studio",
+  "version": "0.1.0",
+  "private": true,
+  "description": "叙页 AI PPT 第一版交互框架",
+  "type": "module",
+  "scripts": {
+    "dev": "node server.mjs",
+    "start": "node server.mjs",
+    "check": "node --check dist/app.js && node --check server.mjs",
+    "test": "node tests/e2e.cjs"
+  }
+}

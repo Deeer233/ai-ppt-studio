@@ -1,0 +1,6 @@
+node_modules/
+tests/artifacts/
+tests/*.png
+*.tar.gz
+*.tar
+*.log
