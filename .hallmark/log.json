@@ -1,6 +1,18 @@
 [
   {
     "date": "2026-10-18",
+    "macrostructure": "Workbench + slide gallery",
+    "theme": "Coral / navy / cool-neutral surfaces",
+    "scope": "homepage",
+    "enrichment": "clickable local slide previews and clearly labelled layout study",
+    "brief": "Professional, clear homepage for university competition teams; visual presentation quality first; idea and document starting points",
+    "deployment": "local only",
+    "validation": "39 end-to-end checks; 14 UX checks; 5 boundary groups; 12 campus homepage checks; syntax checks pass",
+    "viewports": "320, 375, 414, 768, 1280, 1440px; laptop CTA visible at 1280x800",
+    "contrast": "Sampled body text and primary CTA: 5.10:1 to 8.15:1"
+  },
+  {
+    "date": "2026-10-18",
     "macrostructure": "Workbench",
     "theme": "Coral",
     "nav": "N3 app rail",
