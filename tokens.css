@@ -1,0 +1,36 @@
+:root {
+  --color-paper: oklch(98% .003 250);
+  --color-surface: oklch(100% 0 0);
+  --color-soft: oklch(96.8% .005 250);
+  --color-line: oklch(91.8% .008 250);
+  --color-ink: oklch(25% .025 260);
+  --color-muted: oklch(50% .017 260);
+  --color-faint: oklch(57% .018 260);
+  --color-accent: oklch(56% .19 34);
+  --color-accent-hover: oklch(50% .18 34);
+  --color-accent-soft: oklch(96% .025 40);
+  --color-focus: oklch(52% .18 34);
+  --color-navy: oklch(27% .035 258);
+  --color-coral: oklch(71% .15 39);
+  --color-peach: oklch(92% .04 46);
+  --color-cream: oklch(96% .018 70);
+  --color-blue: oklch(47% .12 258);
+  --color-blue-soft: oklch(94% .018 250);
+  --color-success: oklch(42% .09 165);
+  --color-success-soft: oklch(96% .02 165);
+  --color-error: oklch(48% .17 25);
+  --color-backdrop: oklch(20% .02 260 / .4);
+  --color-shadow: oklch(20% .02 260 / .06);
+  --color-shadow-strong: oklch(20% .02 260 / .14);
+  --color-transparent: transparent;
+  --font-display: 'Microsoft YaHei', 'PingFang SC', sans-serif;
+  --font-body: 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', sans-serif;
+  --space-xs: 4px; --space-sm: 8px; --space-md: 16px; --space-lg: 24px;
+  --space-xl: 32px; --space-2xl: 48px; --space-3xl: 64px;
+  --text-xs: 12px; --text-sm: 13px; --text-base: 14px; --text-lg: 18px;
+  --text-xl: 24px; --text-2xl: 30px; --text-display: clamp(28px, 2.8vw, 40px);
+  --radius-sm: 6px; --radius-md: 10px; --radius-lg: 16px; --radius-xl: 20px;
+  --ease-out: cubic-bezier(.2,.8,.2,1); --ease-in: cubic-bezier(.4,0,1,1);
+  --ease-in-out: cubic-bezier(.4,0,.2,1); --dur-fast: 140ms; --dur-base: 200ms;
+  --rule: 1px solid var(--color-line);
+}
