@@ -1,4 +1,13 @@
 :root {
+  --color-accent-ink: oklch(100% 0 0);
+  --color-home-input: oklch(98.2% .004 250);
+  --color-home-showcase: oklch(95.7% .012 253);
+  --color-home-showcase-line: oklch(89.8% .014 253);
+  --color-home-paper: oklch(98.2% .012 82);
+  --color-home-paper-line: oklch(90.5% .018 82);
+  --color-home-link: oklch(40% .08 257);
+  --space-compact: 12px; --space-inset: 20px;
+  --radius-pill: 999px;
   --color-paper: oklch(98% .003 250);
   --color-surface: oklch(100% 0 0);
   --color-soft: oklch(96.8% .005 250);
