@@ -90,4 +90,4 @@ GitHub Pages 不运行 server.mjs，本地服务中的自定义响应头不随�
 
 新增「竞赛路演」「项目答辩」本地目录，以及校园低碳、智慧助农、阶段答辩三个示例；它们也可在模板页按场景筛选、搜索和预览。原有办公示例、草稿和项目继续可用。示例不代表真实获奖项目；当前生成仍使用本地模板，尚未接入 AI。
 
-验收截图与结果保存在 tests/artifacts/campus-home-*.png、campus-home-results.json 和 homepage-regression-summary.json。更改仅在本地项目中完成，尚未更新 GitHub Pages。
+验收截图与结果保存在 tests/artifacts/campus-home-*.png、campus-home-results.json 和 homepage-regression-summary.json。本次改版已于 2026-10-18 同步到 GitHub，并通过 gh-pages 发布。线上首页、脚本、样式和设计变量均已核验与源码一致。
