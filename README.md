@@ -1,5 +1,11 @@
 # 叙页 AI PPT 第一版网站框架
 
+**在线演示：https://deeer233.github.io/ai-ppt-studio/**
+
+源码仓库：https://github.com/Deeer233/ai-ppt-studio
+
+演示登录：使用虚拟手机号，点击获取验证码后填写 `123456`，勾选协议即可体验。
+
 依据《AI_PPT_SaaS_MVP_PRD_中文.docx》实现的可运行交互预览。源码和运行文件保存在 `D:\CodexWork\ai-ppt-studio`。
 
 ## 启动
