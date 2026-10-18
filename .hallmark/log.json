@@ -1,1 +1,19 @@
-[{"date":"2026-10-18","macrostructure":"Workbench","theme":"Coral","nav":"N3 app rail","footer":"Ft2","enrichment":"native editable slide geometry","brief":"叙页中文商务 AI PPT 第一版工作台"}]
+[
+  {
+    "date": "2026-10-18",
+    "macrostructure": "Workbench",
+    "theme": "Coral",
+    "nav": "N3 app rail",
+    "footer": "Ft2",
+    "enrichment": "native editable slide geometry",
+    "brief": "叙页中文商务 AI PPT 第一版工作台"
+  },
+  {
+    "date": "2026-10-18",
+    "macrostructure": "Workbench",
+    "theme": "Coral",
+    "scope": "creation homepage, multipage templates, resumable local processing, editor undo",
+    "validation": "39 e2e checks; 14 UX checks; 5 boundary groups; 320/375/414/768/1440px",
+    "deployment": "local only"
+  }
+]

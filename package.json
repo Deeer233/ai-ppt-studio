@@ -8,6 +8,9 @@
     "dev": "node server.mjs",
     "start": "node server.mjs",
     "check": "node --check dist/app.js && node --check server.mjs",
-    "test": "node tests/e2e.cjs"
+    "test": "node tests/e2e.cjs",
+    "test:ux": "node tests/ux-regression.cjs",
+    "test:edge": "node tests/edge-cases.cjs",
+    "deploy:pages": "git subtree push --prefix dist origin gh-pages"
   }
 }
